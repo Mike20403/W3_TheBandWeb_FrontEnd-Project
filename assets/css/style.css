@@ -145,7 +145,7 @@ img {
 	padding-top: 50%;
 	/*Có thể viết tắt ntn cho cả 4 dòng*/
 	/**background: url('/assets/img/chicago.jpg') top center/ cover / no-repeat;*/
-	background: url('/assets/img/chicago.jpg');
+	background: url('../img/chicago.jpg');
 	background-position: top center;
 	background-size: cover;
 	background-repeat: no-repeat;
